@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 13 03:19:50 BRT 2018
+jcommander-1.48-sources.jar>jcenter=
+jcommander-1.48.jar>jcenter=
+jcommander-1.48.pom>jcenter=
